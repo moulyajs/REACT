@@ -59,4 +59,3 @@ function App() {
 }
 
 export default App;
-//exporting App function
